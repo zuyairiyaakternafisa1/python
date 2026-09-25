@@ -1,1 +1,1 @@
-print ("gigabite program")
+print ("gigabite nnn program")
