@@ -1,10 +1,14 @@
-name = "Nafishaaaaaaa"
+n = "abdullah al kaWSERR "
+n1 =  "kstypppps"
 
-age = 20;
+print(n, "", n1)
 
-department ="software enginnering"
 
-print("name ",name)
-print("age ",age)
-print("department ",department)
+a =2088888
+b = 30
 
+
+
+
+print(f"{a}+{b} ={a+b}")
+# print(f"{a} + {b} = {a + b}")
